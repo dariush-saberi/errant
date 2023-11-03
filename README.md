@@ -60,7 +60,7 @@ pip3 install errant==2.0.0
 
 If you prefer to install ERRANT from source, you can instead run the following commands:
 ```
-git clone https://github.com/chrisjbryant/errant.git
+git clone https://github.com/dariush-saberi/errant.git
 cd errant
 python3 -m venv errant_env
 source errant_env/bin/activate
