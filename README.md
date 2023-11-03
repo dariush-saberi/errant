@@ -3,7 +3,7 @@
 ### This repository is an update to the original Errant with the following commit:
 https://github.com/chrisjbryant/errant/commit/e53a16a083a64a95cffffde56828c4d4ddab62ad 
 
-
+### This version supports SpaCy > 3.0
 
 <p align="center">
   <img src="src/errant_3.9_spacy3.png" alt="Your image description" />
