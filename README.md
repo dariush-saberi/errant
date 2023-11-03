@@ -6,7 +6,7 @@ https://github.com/chrisjbryant/errant/commit/e53a16a083a64a95cffffde56828c4d4dd
 ### This version supports SpaCy > 3.0
 
 <p align="center">
-  <img src="src/errant_3.9_spacy3.png" alt="Your image description" />
+  <img src="src/errant_3.9_spacy3.png" alt="Spacy Support" />
 </p>
 
 
