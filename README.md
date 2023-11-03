@@ -40,7 +40,7 @@ A "noop" edit is a special kind of edit that explicitly indicates an annotator/s
 # Installation
 ## Source Install
 
-If you prefer to install ERRANT from source, you can instead run the following commands:
+For this update, you need to install ERRANT from source with the following commands:
 ```
 git clone https://github.com/dariush-saberi/errant.git
 cd errant
