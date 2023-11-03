@@ -1,5 +1,9 @@
 # ERRANT v3.0.0
 
+### This repository is an update to the original Errant with the following commit:
+https://github.com/chrisjbryant/errant/commit/e53a16a083a64a95cffffde56828c4d4ddab62ad 
+
+
 This repository contains the grammatical ERRor ANnotation Toolkit (ERRANT) described in:
 
 > Christopher Bryant, Mariano Felice, and Ted Briscoe. 2017. [**Automatic annotation and evaluation of error types for grammatical error correction**](https://www.aclweb.org/anthology/P17-1074/). In Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). Vancouver, Canada.
