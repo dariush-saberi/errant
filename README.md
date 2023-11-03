@@ -30,7 +30,7 @@ A "noop" edit is a special kind of edit that explicitly indicates an annotator/s
 
 ## Pip Install
 
-The easiest way to install ERRANT and its dependencies is using `pip`. We also recommend installing it in a clean virtual environment (e.g. with `venv`). The latest version of ERRANT only supports Python >= 3.6.
+The easiest way to install ERRANT and its dependencies is using `pip`. We also recommend installing it in a clean virtual environment (e.g. with `venv`). 
 ```
 python3 -m venv errant_env
 source errant_env/bin/activate
