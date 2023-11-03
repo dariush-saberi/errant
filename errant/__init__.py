@@ -9,8 +9,8 @@ __version__ = '3.0.0'
 def load(lang, nlp=None):
     # Make sure the language is supported
     supported = {"en_core_web_sm"}
-    if lang not in supported:
-        raise Exception("%s is an unsupported or unknown language" % lang)
+    #if lang not in supported:
+    #    raise Exception("%s is an unsupported or unknown language" % lang)
 
     # Load spacy
     nlp = nlp or spacy.load(lang, disable=["ner"])
