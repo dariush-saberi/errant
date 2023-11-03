@@ -1,9 +1,6 @@
 # ERRANT v3.0.0
 
-### This repository is an update to the original Errant with the following commit:
-https://github.com/chrisjbryant/errant/commit/e53a16a083a64a95cffffde56828c4d4ddab62ad 
-
-### This version supports spaCy > 3.0
+### This repository is an update to the original Errant to support spaCy > 3.0
 
 <p align="center">
   <img src="src/errant_spacy3.png" alt="Spacy Support" />
