@@ -213,8 +213,3 @@ Format the edit for an output M2 file. `id` is the annotator id.
 
 If you want to develop ERRANT for other languages, you should mimic the `errant/en` directory structure. For example, ERRANT for French should import a merger from `errant.fr.merger` and a classifier from `errant.fr.classifier` that respectively have equivalent `get_rule_edits` and `classify` methods. You will also need to add `'fr'` to the list of supported languages in `errant/__init__.py`.
 
-# Contact
-
-If you have any questions, suggestions or bug reports, you can contact the authors at:  
-christopher d0t bryant at cl.cam.ac.uk  
-mariano d0t felice at cl.cam.ac.uk  
