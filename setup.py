@@ -17,7 +17,7 @@ setup(
     long_description_content_type = "text/markdown",
     author = "Christopher Bryant, Mariano Felice",
     author_email = "christopher.bryant@cl.cam.ac.uk",
-    url = "https://github.com/chrisjbryant/errant",    
+    url = "https://github.com/dariush-saberi/errant",    
     keywords = ["automatic annotation", "grammatical errors", "natural language processing"],
     python_requires = ">= 3.6",
     install_requires = ["spacy>=3", "rapidfuzz>=2.0.0"],
